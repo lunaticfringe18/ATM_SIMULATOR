@@ -22,8 +22,8 @@ other banking customers by simply adding them as payees.
 ![Flowchart](https://github.com/lunaticfringe18/ATM_SIMULATOR/assets/108046649/463397c8-63a3-4608-9204-949c879a68b2)  
 # Features
 Here in my project there are two types of modules. This module is the main module which performs   
-all the main operations in the system. The major operations in the system are: 
-Admin Module 
+all the main operations in the system. The major operations in the system are:   
+Admin Module   
 Admin can access this project there is an authorization process. If you login as an Admin then you 
 will be redirected to the Admin Home Page and if you are a simple user you will be redirected to 
 your Account Home Page. This performs the following functions: Create Individual Accounts, 
