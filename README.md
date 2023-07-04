@@ -19,10 +19,7 @@ from western union, money transfer to others, and send cash or money to inter ba
 other banking customers by simply adding them as payees. 
 
 # Flowchart
-![image](https://github.com/lunaticfringe18/ATM_SIMULATOR/assets/108046649/8b6af65a-6448-41cf-901b-47ae2223d26b)
-
-
-
+![Flowchart](https://github.com/lunaticfringe18/ATM_SIMULATOR/assets/108046649/463397c8-63a3-4608-9204-949c879a68b2)  
 # Features
 Here in my project there are two types of modules. This module is the main module which performs   
 all the main operations in the system. The major operations in the system are: 
@@ -71,7 +68,10 @@ Bank. The changes will be notified to the customers through a notification on th
 1.Download Netbeans and MySql workbench on your device.  
 2.Download the source code from masters branch and upload it on your ide.  
 
-#Images
+# Images
+![FrontEnd](https://github.com/lunaticfringe18/ATM_SIMULATOR/assets/108046649/f539ac9b-94e5-46a6-b0a4-e0723b627caa)
+
+
 
 
 
